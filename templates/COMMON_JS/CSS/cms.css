@@ -1,0 +1,13 @@
+UL.content_simple_gallery {
+    list-style: none;
+}
+
+UL.content_simple_gallery LI {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+LI.simple_gallery_view_more {
+    vertical-align: middle;
+    margin-left: 40px;
+}

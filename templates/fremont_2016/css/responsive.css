@@ -1,0 +1,87 @@
+@media only screen and (max-width: 1220px) {
+	.search {right: 20px;}
+	section.inside article {width: 73%}
+	section.inside aside {width: 23%;}
+
+}
+
+@media only screen and (max-width: 975px) {
+	article.home, aside.home {width: 100%; float: none;}
+	section.inside article {width: 64%}
+	section.inside aside {width: 31%;}
+}
+
+@media only screen and (max-width: 900px) {
+	a.iconizer, a.iconizer:visited { height: 130px;  font-size: 16px; padding-top: 15px; } 
+	a.iconizer .fa {font-size: 50px; }
+	.footnote, .bottomlinks, .socmed {width: 100%;}
+
+}
+
+
+@media only screen and (max-width: 800px) {
+	.taft_label-wrapper {width: 33%;}
+	.taft_formElement-wrapper {width: 66%;}
+
+}
+
+
+@media only screen and (max-width: 700px) {
+	.col4 {width: 48%; margin: 0 1% 10px 1%; }
+	header { height: 255px; }
+	.search {bottom: 85px;}
+
+}
+
+@media only screen and (max-width: 599px) {
+	.col4, .col3, .col2 {width: 96%; margin: 0 2% 10px 2%; }
+	a.iconizer, a.iconizer:visited {height: 30px; width: 100%; padding: 5px 20px; border: none; border-bottom: solid 1px white; margin: 0; text-align: left;} 
+	a.iconizer:hover { border: none; border-bottom: solid 1px white; -webkit-box-shadow: 0px 0px 0px 0 rgba(0,0,0,0); box-shadow: 0px 0px 0px 0 rgba(0,0,0,0);}
+	a.iconizer .fa {font-size: 18px; display: inline-block; width: 50px; text-align: center;}
+	.palegreybar { padding: 5px 0; margin: 10px 0;}
+	.footnote, .bottomlinks, .socmed {text-align: center}
+
+	.images {float: none; margin: 0 auto;}
+	.images img {margin: 0 5px;}
+	.text{float: none; padding: 10px 0; width: 100%; text-align: center;}
+
+		section.inside article, section.inside aside {width: 100%; float: none; margin: 0 0 20px 0}
+
+
+
+/*.searchbttn {color: white; font-size: 18px; position: absolute; top: 5px; right: 10px; display: block; }
+*/
+}
+
+@media only screen and (max-width: 500px) {
+
+	.taft_label-wrapper, .taft_formElement-wrapper {width: 100%; min-height: auto;}
+	.taft_formElement-wrapper {margin-bottom: 10px;}
+
+	.mobi {display: block;}
+	.full {display: none;}
+
+	.sideslider table {width: 510px; }
+	.sideslider { overflow: scroll;overflow-y: hidden; -ms-overflow-y: hidden;}
+
+
+}
+
+@media only screen and (max-width: 420px) {
+
+	header { height: 290px; }
+	.search {bottom: 120px;}
+
+}
+@media only screen and (max-width: 400px) {
+
+
+
+
+	.regions_rates_table_row1, .regions_rates_table_row2, .regions_rates_table_effectivedate, .regions_rates_table_fields, .ncua, .ehl, .bottomlinks, .toplinks { font-size: 14px;}
+	div#KJECalculatorScreenSize {position: relative; left: -15px;}
+	FORM.webform textarea {width:164px; padding: 0;  margin: 0;}
+	FORM.webform input{max-width: 164px; }
+	FORM.webform TR TD {width: 100px; }
+
+}
